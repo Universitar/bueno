@@ -2,5 +2,6 @@ Packing list
 
 - Flipflops
 - jacket
+- camera
 BEACH
 - TOWEL
